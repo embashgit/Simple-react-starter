@@ -1,0 +1,7 @@
+{
+    "sonarlint.trace.server": "messages",
+    "sonarlint.connectedMode.project": {
+        "serverId": "49aa4b5c543a62fb9ce48b90f49452f7bfe142d9",
+        "projectKey": "ncs"
+    }
+}

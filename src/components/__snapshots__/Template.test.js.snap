@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Template should render correctly in "debug" mode 1`] = `
+<div>
+  <p>
+    Hi Template
+  </p>
+</div>
+`;
