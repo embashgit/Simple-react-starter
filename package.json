@@ -1,7 +1,7 @@
 {
   "name": "ncs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple React starter kit with webpack and test",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config build-utils/webpack.config.js --env.env=dev",
@@ -36,7 +36,10 @@
     ]
   },
   "keywords": [
-    "ncs"
+    "Simple react starter kit",
+    "webpack and jest",
+    "webpack",
+    "react boilaplate"
   ],
   "author": "",
   "license": "ISC",
